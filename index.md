@@ -1,5 +1,5 @@
 ---
-title: "the front page of blog"
+title: "title set in index.md"
 ---
 
-I'm so sad, the world is disappointing
+text in ```index.md```
