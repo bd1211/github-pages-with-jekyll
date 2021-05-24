@@ -1,6 +1,6 @@
 ---
-title: "YOUR-TITLE"
+title: "Today's blog"
 date: 2021-05-24
 ---
 
-the world is cold and bad, down with the world!
+where is today's happiness?

@@ -1,6 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "the front page of blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
-I'm not happy, the world is so bad
+I'm so sad, the world is disappointing
